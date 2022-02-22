@@ -2,4 +2,4 @@
 ---
 ### Ödev 1 Javascript Saat ve Karşılama
 
-![Odev]('CSS_odev_2.png')
+![Odev](CSS_odev_2.png)
